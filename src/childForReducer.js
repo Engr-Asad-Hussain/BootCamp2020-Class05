@@ -18,6 +18,7 @@ const ChildForReducer = () => {
             }>
                 Increment
             </button>
+            <hr />
         </div>
     )
 }
